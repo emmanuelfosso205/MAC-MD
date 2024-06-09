@@ -4,7 +4,7 @@
 
 <center>
 
-<img alt=🪄🍪 height="300" src="https://telegra.ph/file/eecd5673d4d80563d645b.jpg">
+<img alt=🪄🍪 height="300" src=".jpg">
 
 </center>
 
